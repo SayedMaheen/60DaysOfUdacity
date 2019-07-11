@@ -5,3 +5,6 @@ Daily Activities of Secure and Private AI Scholarship Challenge Course Showcased
 |  Start Date     |    End Date     |
 | ----------------| ----------------|
 | 27 June, 2019   | 30 August, 2019 |  
+
+
+------------
