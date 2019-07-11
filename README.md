@@ -8,3 +8,4 @@ Daily Activities of Secure and Private AI Scholarship Challenge Course Showcased
 
 
 ------------
+### Day 1: June 28, 2019, Friday
