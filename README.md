@@ -110,7 +110,7 @@ https://www.coursera.org/learn/machine-learning
 *Beginner track- Hotdog or not:* It is a simple image classification task where we need to classify from an image whether it contains hotdog or not.
 3. I encourage my study group buddies to complete the challenge successfully
 4. I encourage @Abhishek Sawant @Abdullah Saleh @Reem Abdel-Salam @Sebastián Fenoglio @Osvaldo Marte @Oscar Sandoval Torres @Oscar Flores @Oscar Castillo @omar ashraf mohamed sayed @Oshani Weerakoon to join this #60daysofudacity challenge and complete this course successfully
-![alt text](https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/Capture.PNG)
+![alt text](https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Capture.PNG)
 
 ------------
 ### Day 15: July 12, 2019, Friday
@@ -118,7 +118,7 @@ https://www.coursera.org/learn/machine-learning
 2. Continuing with Lesson 7-Project: Federated Learning
 3. Updated Github repo https://github.com/SayedMaheen/60DaysOfUdacity
 4. I encourage @Wedad Anbtawi @Khaled Essam @Khairul Imam @Khairul Amri @khaled.refai @Khadidja @Khalil Liouane @Khalil Nouili @Khalil Henchi @khalidalhabibie @Khalida Mujahid @khaled abdelrahman omar @Gungor Basa @Gudipati Tarun @Gulshan Gupta @guinakajima @Guntur Wicaksono to join this #60daysofudacity challenge and complete this course successfully
-![alt text]()
-![alt text]()
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Capture2.PNG)
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Capture3.PNG)
  
  
