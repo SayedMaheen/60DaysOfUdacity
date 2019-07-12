@@ -114,5 +114,11 @@ https://www.coursera.org/learn/machine-learning
 
 ------------
 ### Day 15: July 12, 2019, Friday
+1. Completed Lesson 9- Deploying PyTorch models from Intro to Deep Learning course
+2. Continuing with Lesson 7-Project: Federated Learning
+3. Updated Github repo https://github.com/SayedMaheen/60DaysOfUdacity
+4. I encourage @Wedad Anbtawi @Khaled Essam @Khairul Imam @Khairul Amri @khaled.refai @Khadidja @Khalil Liouane @Khalil Nouili @Khalil Henchi @khalidalhabibie @Khalida Mujahid @khaled abdelrahman omar @Gungor Basa @Gudipati Tarun @Gulshan Gupta @guinakajima @Guntur Wicaksono to join this #60daysofudacity challenge and complete this course successfully
+![alt text]()
+![alt text]()
  
  
