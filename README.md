@@ -121,4 +121,15 @@ https://www.coursera.org/learn/machine-learning
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Capture2.PNG)
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Capture3.PNG)
  
- 
+------------
+### Day 16: July 13, 2019, Saturday
+1. Stuck at Lesson 7: Federated Learning Project
+2.  Continuing with CNN and Style Transfer lessons (about to complete this portion as soon as possible and will Start with RNN  and Sentiment Prediction
+3. Participated in simple pytorch code challenge(Day 7) from study group #sg_pytorch_begin  conducted by @Mariia Denysenko
+4. Participated in Quiz 1: from study group #sg_novice-ai  conducted by @Stark
+5. Team up with @Sankalp Dayal for #sg_cognitive-learners  Hotdog or not classification project
+6. Started working on #sg_applied_dl  dog breed classification project
+7.  Encouraging @Nicolas Remerscheid @Nicolas Luiz Ribeiro Veiga @Nicolás Álvarez @Nicole Velasco @Nick.Udacity @Nic Dinkins @NickMa @Niclas M @Nicolas Araque @Nicolas Gomez @Ana Maria Niculescu @Julián Nicolás Acosta @Mic Merritt @MicahTurner(RNO) to join this #60daysofudacity  challenge and complete this course successfully 
+
+------------
+### Day 17: July 14, 2019, Sunday
