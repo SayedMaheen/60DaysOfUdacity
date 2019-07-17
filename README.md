@@ -149,9 +149,9 @@ https://www.coursera.org/learn/machine-learning
 5.  I would like to encourage my study buddies @Berenice @Shudipto Trafder @LauraT @Nirupama Singh @par @Deepak @Yuvraj @Aniket Thomas @Helena Barmer @Akash Antony @nabhanpv @Stark @Mariia Denysenko to complete this challenge and group projects successfully
 6.  I also like to encourage @Sakshi Anand @Atreyi Mukherjee @Atharv Redij @Atul Nair @atakan @ATUL KRISHNA SINGH @Atsenokhai @Atharva Jakkanwar @Esin Darici @Nader @Shahid Siddiqui @Shahed Mehbub @Shahbaz Khan @shafrazi @Mostafa shahin @Shahrzad Masoumnia @Shadab Hussain to join this challenge and complete this course successfully 
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Capturedfgs.PNG | width=100)
-![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Screenshot_20190717-234003.jpg | width=100)
-![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Screenshot_20190717-232445.jpg | width=100)
-![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Screenshot_20190717-232422.jpg | width=100)
-![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Screenshot_20190717-231833.jpg | width=100)
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Screenshot_20190717-234003.jpg | width="200" height="400")
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Screenshot_20190717-232445.jpg | width="200" height="400")
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Screenshot_20190717-232422.jpg | width="200" height="400")
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Screenshot_20190717-231833.jpg | width="200" height="400")
 
 -------------
