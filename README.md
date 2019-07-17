@@ -162,11 +162,11 @@ webinar and sine wave
 2. Meetup with #sg_novice-ai  study group buddies @Shudipto Trafder @Ingus Terbets @SANMITRA @Stark @Preeti @Muhammad Husnain @Amanda Zhong @StaceyA @Michael Sheinman @Poornima Venkatraman
 3. Still trying on Coding task 10 from #sg_pytorch_begin group @Mariia Denysenko
 4. I would like to encourage @Tiago Gonçalves @Timothy Barten @Timothy Lue @Tisha @Thiago Bomfim @Thibault Gardet @Thiago Pozati @Lukas Samuolis @Samagra Gupta @Sammy Kariuki @Samir Moustafa to join this #60daysofudacity  challenge and to complete this course successfully 
-![alt text]( 4546.png )
-![alt text]( 123.png )
-![alt text]( 456.png )
-![alt text]( image.png )
-![alt text]( Screenshot_2019-07-16-23-36-34-761_us.zoom.videomeetings.png )
+![alt text]( 4546.PNG )
+![alt text]( 123.PNG )
+![alt text]( 456.PNG )
+![alt text]( image.PNG )
+![alt text]( Screenshot_2019-07-16-23-36-34-761_us.zoom.videomeetings.PNG )
 
 ------------
 ### Day 20: July 17, 2019, Wednesday
