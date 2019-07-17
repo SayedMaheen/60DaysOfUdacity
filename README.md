@@ -153,3 +153,5 @@ https://www.coursera.org/learn/machine-learning
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Screenshot_20190717-232445.jpg)
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Screenshot_20190717-232422.jpg)
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Screenshot_20190717-231833.jpg)
+
+-------------
