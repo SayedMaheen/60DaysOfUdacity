@@ -165,8 +165,8 @@ webinar and sine wave
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/4546.PNG )
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/123.PNG )
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/456.PNG )
-![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/image.PNG )
-![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Screenshot_2019-07-16-23-36-34-761_us.zoom.videomeetings.PNG )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/image.png )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Screenshot_2019-07-16-23-36-34-761_us.zoom.videomeetings.png )
 
 ------------
 ### Day 20: July 17, 2019, Wednesday
