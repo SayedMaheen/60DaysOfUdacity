@@ -162,6 +162,7 @@ https://www.youtube.com/watch?v=9D_jxOMZmRI
 2. Meetup with #sg_novice-ai  study group buddies @Shudipto Trafder @Ingus Terbets @SANMITRA @Stark @Preeti @Muhammad Husnain @Amanda Zhong @StaceyA @Michael Sheinman @Poornima Venkatraman
 3. Still trying on Coding task 10 from #sg_pytorch_begin group @Mariia Denysenko
 4. I would like to encourage @Tiago Gonçalves @Timothy Barten @Timothy Lue @Tisha @Thiago Bomfim @Thibault Gardet @Thiago Pozati @Lukas Samuolis @Samagra Gupta @Sammy Kariuki @Samir Moustafa to join this #60daysofudacity  challenge and to complete this course successfully 
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/hghgfd.PNG)
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/4546.PNG | width="200" height="400")
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/123.PNG | width="200" height="400")
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/456.PNG | width="200" height="400")
