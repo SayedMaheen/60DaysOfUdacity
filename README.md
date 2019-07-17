@@ -150,8 +150,8 @@ https://www.youtube.com/watch?v=9D_jxOMZmRI
 3. Team up with @Shudipto Trafder for Titanic Dataset project
 4. Discussed Study group projects with Group members
 5. I would like to encourage @Isaac Gonzales Vizcarra @Israel Jimenez Lorant @Isaac @Isaac @isabela @Ish @Ishmeher Singh Ahuja @Ishaan  @Ishan Singh @Ishan Sinha to join this #60daysofudacity challenge and to complete this course successfully
-2 images
-webinar and sine wave
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/webinarr.PNG )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/task 9.PNG )
 
 ------------
 ### Day 19: July 16, 2019, Tuesday
