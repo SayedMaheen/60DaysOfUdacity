@@ -151,7 +151,7 @@ https://www.youtube.com/watch?v=9D_jxOMZmRI
 4. Discussed Study group projects with Group members
 5. I would like to encourage @Isaac Gonzales Vizcarra @Israel Jimenez Lorant @Isaac @Isaac @isabela @Ish @Ishmeher Singh Ahuja @Ishaan  @Ishan Singh @Ishan Sinha to join this #60daysofudacity challenge and to complete this course successfully
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/webinarr.PNG )
-![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/task%20%9.PNG )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/task.PNG )
 
 ------------
 ### Day 19: July 16, 2019, Tuesday
