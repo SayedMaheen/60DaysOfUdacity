@@ -141,6 +141,7 @@ https://www.coursera.org/learn/machine-learning
 6. I encourage @Saahil Ali @Sackey David Kofi Ahen @Manuel Saavedra @Saamahn Mahjouri @Michael Pivato @Migue @Miguel Andres Pinal Rodriguez @Miguel Raviela @Githin @Giannis Kiriakou @GirlesaQR @Giancarlo Castro @Matheus Ricardo Massuki to join this #60daysofudacity challenge and to complete this course successfully
 2 images 
 nikhil ketkar and pandas data
+
 ------------
 ### Day 18: July 15, 2019, Monday
 1. Completed coding task 9 of #sg_pytorch_begin  @Mariia Denysenko
@@ -151,6 +152,7 @@ https://www.youtube.com/watch?v=9D_jxOMZmRI
 5. I would like to encourage @Isaac Gonzales Vizcarra @Israel Jimenez Lorant @Isaac @Isaac @isabela @Ish @Ishmeher Singh Ahuja @Ishaan  @Ishan Singh @Ishan Sinha to join this #60daysofudacity challenge and to complete this course successfully
 2 images
 webinar and sine wave
+
 ------------
 ### Day 19: July 16, 2019, Tuesday
 1. Read two Pytorch beginner friendly books:
@@ -160,10 +162,12 @@ webinar and sine wave
 2. Meetup with #sg_novice-ai  study group buddies @Shudipto Trafder @Ingus Terbets @SANMITRA @Stark @Preeti @Muhammad Husnain @Amanda Zhong @StaceyA @Michael Sheinman @Poornima Venkatraman
 3. Still trying on Coding task 10 from #sg_pytorch_begin group @Mariia Denysenko
 4. I would like to encourage @Tiago Gonçalves @Timothy Barten @Timothy Lue @Tisha @Thiago Bomfim @Thibault Gardet @Thiago Pozati @Lukas Samuolis @Samagra Gupta @Sammy Kariuki @Samir Moustafa to join this #60daysofudacity  challenge and to complete this course successfully 
-5images
-meetup 2 
-packt and recipes
-matrix vector
+![alt text]( 4546.png )
+![alt text]( 123.png )
+![alt text]( 456.png )
+![alt text]( image.png )
+![alt text]( Screenshot_2019-07-16-23-36-34-761_us.zoom.videomeetings.png )
+
 ------------
 ### Day 20: July 17, 2019, Wednesday
 1. Read Research paper: GAN
