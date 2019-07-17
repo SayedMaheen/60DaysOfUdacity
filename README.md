@@ -139,7 +139,31 @@ https://www.coursera.org/learn/machine-learning
 4. Discussed projects and available datasets for group project for #sg_planetearth  with few study group members @Shudipto Trafder @LauraT @par @Nirupama Singh @Aniket Thomas @Deepak @Yuvraj @Berenice
 5. I encourage group members especially @Shudipto Trafder @LauraT @par @Nirupama Singh @Aniket Thomas @Deepak @Yuvraj @Berenice to utilize their full potential in upcoming days of challenge
 6. I encourage @Saahil Ali @Sackey David Kofi Ahen @Manuel Saavedra @Saamahn Mahjouri @Michael Pivato @Migue @Miguel Andres Pinal Rodriguez @Miguel Raviela @Githin @Giannis Kiriakou @GirlesaQR @Giancarlo Castro @Matheus Ricardo Massuki to join this #60daysofudacity challenge and to complete this course successfully
-
+2 images 
+nikhil ketkar and pandas data
+------------
+### Day 18: July 15, 2019, Monday
+1. Completed coding task 9 of #sg_pytorch_begin  @Mariia Denysenko
+2. Attended Webinar [AMA with robert wagner]
+https://www.youtube.com/watch?v=9D_jxOMZmRI
+3. Team up with @Shudipto Trafder for Titanic Dataset project
+4. Discussed Study group projects with Group members
+5. I would like to encourage @Isaac Gonzales Vizcarra @Israel Jimenez Lorant @Isaac @Isaac @isabela @Ish @Ishmeher Singh Ahuja @Ishaan  @Ishan Singh @Ishan Sinha to join this #60daysofudacity challenge and to complete this course successfully
+2 images
+webinar and sine wave
+------------
+### Day 19: July 16, 2019, Tuesday
+1. Read two Pytorch beginner friendly books:
+    i.  PyTorch Recipes by Pradeepta Mishra
+   ii.  DeepLearning with PyTorch by Vishnu Subramanian
+   tried every code and i will make some notebooks with clear definition of what i've done, will post it on Github
+2. Meetup with #sg_novice-ai  study group buddies @Shudipto Trafder @Ingus Terbets @SANMITRA @Stark @Preeti @Muhammad Husnain @Amanda Zhong @StaceyA @Michael Sheinman @Poornima Venkatraman
+3. Still trying on Coding task 10 from #sg_pytorch_begin group @Mariia Denysenko
+4. I would like to encourage @Tiago Gonçalves @Timothy Barten @Timothy Lue @Tisha @Thiago Bomfim @Thibault Gardet @Thiago Pozati @Lukas Samuolis @Samagra Gupta @Sammy Kariuki @Samir Moustafa to join this #60daysofudacity  challenge and to complete this course successfully 
+5images
+meetup 2 
+packt and recipes
+matrix vector
 ------------
 ### Day 20: July 17, 2019, Wednesday
 1. Read Research paper: GAN
