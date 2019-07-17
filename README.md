@@ -133,3 +133,10 @@ https://www.coursera.org/learn/machine-learning
 
 ------------
 ### Day 17: July 14, 2019, Sunday
+1. Completed coding task 8 of #sg_pytorch_begin from @Mariia Denysenko
+2. Watched a video "working with data using pandas"
+3. Read a book "Deep learning with python" by Nikhil Ketkar
+4. Discussed projects and available datasets for group project for #sg_planetearth  with few study group members @Shudipto Trafder @LauraT @par @Nirupama Singh @Aniket Thomas @Deepak @Yuvraj @Berenice
+5. I encourage group members especially @Shudipto Trafder @LauraT @par @Nirupama Singh @Aniket Thomas @Deepak @Yuvraj @Berenice to utilize their full potential in upcoming days of challenge
+6. I encourage @Saahil Ali @Sackey David Kofi Ahen @Manuel Saavedra @Saamahn Mahjouri @Michael Pivato @Migue @Miguel Andres Pinal Rodriguez @Miguel Raviela @Githin @Giannis Kiriakou @GirlesaQR @Giancarlo Castro @Matheus Ricardo Massuki to join this #60daysofudacity challenge and to complete this course successfully
+
