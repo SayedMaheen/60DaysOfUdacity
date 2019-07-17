@@ -140,3 +140,16 @@ https://www.coursera.org/learn/machine-learning
 5. I encourage group members especially @Shudipto Trafder @LauraT @par @Nirupama Singh @Aniket Thomas @Deepak @Yuvraj @Berenice to utilize their full potential in upcoming days of challenge
 6. I encourage @Saahil Ali @Sackey David Kofi Ahen @Manuel Saavedra @Saamahn Mahjouri @Michael Pivato @Migue @Miguel Andres Pinal Rodriguez @Miguel Raviela @Githin @Giannis Kiriakou @GirlesaQR @Giancarlo Castro @Matheus Ricardo Massuki to join this #60daysofudacity challenge and to complete this course successfully
 
+------------
+### Day 20: July 17, 2019, Wednesday
+1. Read Research paper: GAN
+2. Attended a virtual meetup arranged by #reading_paper_discuss to discuss on GAN paper with @Dharmendra Choudhary @Droid @Ingus Terbets @Sarah Majors @Nicolas Araque @Abhishek Tandon  @Sankalp Dayal . I couldn't participate well; i need more insight on the topic
+3. Planned to work with  a unique project "Smog Detection" with #sg_planetearth  members @Shudipto Trafder @Berenice @LauraT @par @Aniket Thomas @Deepak @Yuvraj @Ingus Terbets @Nirupama Singh @Akash Antony @Eileen @Pooja Vinod @nabhanpv @Ravikant Singh ; First need to create a clean dataset for the project
+4. Also Planned some other projects and tasks for the #sg_planetearth  group, which i will discuss with group members tomorrow
+5.  I would like to encourage my study buddies @Berenice @Shudipto Trafder @LauraT @Nirupama Singh @par @Deepak @Yuvraj @Aniket Thomas @Helena Barmer @Akash Antony @nabhanpv @Stark @Mariia Denysenko to complete this challenge and group projects successfully
+6.  I also like to encourage @Sakshi Anand @Atreyi Mukherjee @Atharv Redij @Atul Nair @atakan @ATUL KRISHNA SINGH @Atsenokhai @Atharva Jakkanwar @Esin Darici @Nader @Shahid Siddiqui @Shahed Mehbub @Shahbaz Khan @shafrazi @Mostafa shahin @Shahrzad Masoumnia @Shadab Hussain to join this challenge and complete this course successfully 
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Capturedfgs.PNG)
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Screenshot_20190717-234003.jpg)
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Screenshot_20190717-232445.jpg)
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Screenshot_20190717-232422.jpg)
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Screenshot_20190717-231833.jpg)
