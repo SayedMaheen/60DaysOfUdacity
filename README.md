@@ -184,3 +184,13 @@ https://www.youtube.com/watch?v=9D_jxOMZmRI
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Screenshot_20190717-231833.jpg | width="200" height="400")
 
 -------------
+### Day 21: July 18, 2019, Thursday
+1. Watched Intro to Deep Learning by Lex Fridman | MIT https://www.youtube.com/watch?v=O5xeyoRL95U&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&index=1
+2. Completed Intro to DL for Computer Vision course by Kaggle https://www.kaggle.com/learn/deep-learning
+3. Started working with study group project SmogDetection: We started creating dataset for the project and discussed about the project https://github.com/SayedMaheen/PlanetEarth
+4. I would like to encourage @Wellsen @Shahbaz Khan @Shahed Mehbub @Shahid Siddiqui @Shahrzad Masoumnia @Shahram Najam Syed @Shanu Joshi @Mostafa shahin @Shadab Hussain @Shadman Waris @Saida @Wibke Baudach @Dzaky Putra @Greg Winkler @Brittany Williams @Amalka Withana to join this #60daysofudacity  challenge and to complete this course successfully
+5. I would also like to encourage my study buddy @Shudipto Trafder to complete this challenge successfully
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/dfd.PNG )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/ghf.PNG )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/hffg.PNG )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/gfdgdfdh.PNG )
