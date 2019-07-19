@@ -194,3 +194,13 @@ https://www.youtube.com/watch?v=9D_jxOMZmRI
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/ghf.PNG )
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/hffg.PNG )
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/gfdgdfdh.PNG )
+
+-------------
+### Day 22: July 19, 2019, Friday
+1. Completed Kaggle DeepLearning Lessons (Models from convolutions, Tensorflow Programming, Transfer Learning, Data Augmentation) and completed exercises for tenserflow programming, transfer learning and started with deeper understanding of deep learning lesson
+2. Team up with @Archit @Sankalp Dayal @Marwa  @Calincan Mircea Ioan @Joanna Gon @Soumya Nasipuri on Kaggle for Hotdog or not project #sg_cognitive-learners
+3. Started writing an article based on research paper: https://arxiv.org/pdf/1607.00133.pdf  to submit for
+#sg_caffeine_coders activity
+4. I would like to encourage @Shudipto Trafder @Berenice @LauraT @par @Deepak @Nirupama Singh @Yuvraj @Aniket Thomas
+5. I would also like to encourage @Atsenokhai @Ashan Gunathilaka @AshishP @Ashritha @Ashwin Jha @Ashutosh Kumar Tiwari @Sadul Khod @aditya to join this #60daysofudacity challenge and to complete the course successfully
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/fsdffsf.PNG )
