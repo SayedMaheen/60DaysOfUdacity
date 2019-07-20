@@ -204,3 +204,11 @@ https://www.youtube.com/watch?v=9D_jxOMZmRI
 4. I would like to encourage @Shudipto Trafder @Berenice @LauraT @par @Deepak @Nirupama Singh @Yuvraj @Aniket Thomas
 5. I would also like to encourage @Atsenokhai @Ashan Gunathilaka @AshishP @Ashritha @Ashwin Jha @Ashutosh Kumar Tiwari @Sadul Khod @aditya to join this #60daysofudacity challenge and to complete the course successfully
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/fsdffsf.PNG )
+
+-------------
+### Day 23: July 20, 2019, Saturday
+1. Completed Kaggle Deep Learning Course Lessons: Data Augmentation, Deeper Understanding of Deep Learning, Deep Learning from Scratch, and about to complete lesson: Dropout and Strides for Larger Models
+2. Participated in #sg_novice-ai  coding task from hackerearth site            using python 3  @Stark
+3. I would like to encourage @Md Tariqul Islam @Tarsbir Singh @Susmita Talukdar @Dogan Kilic @Eric Macharia @Ernesto Cullen @Ahu Ermis @Erin M. @Erick Diaz @Eric Mendoza @Eric Njogu @Ernesto Castillo @Erick Ramirez @erdeneochir @Erij Bentej @EZB_UTD @Sia Ahmadi @Siba @Siddharth M @Siddharth Savant @Siddharth Bedi @Siarhei Shumski @siddhant @Siddhartha Dhar Choudhury @Siddhartha Sehgal to join #60daysofudacity  challenege and to complete this course successfully
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/klkjk.PNG )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/seating_arrangement_syd.PNG )
