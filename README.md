@@ -212,3 +212,12 @@ https://www.youtube.com/watch?v=9D_jxOMZmRI
 3. I would like to encourage @Md Tariqul Islam @Tarsbir Singh @Susmita Talukdar @Dogan Kilic @Eric Macharia @Ernesto Cullen @Ahu Ermis @Erin M. @Erick Diaz @Eric Mendoza @Eric Njogu @Ernesto Castillo @Erick Ramirez @erdeneochir @Erij Bentej @EZB_UTD @Sia Ahmadi @Siba @Siddharth M @Siddharth Savant @Siddharth Bedi @Siarhei Shumski @siddhant @Siddhartha Dhar Choudhury @Siddhartha Sehgal to join #60daysofudacity  challenege and to complete this course successfully
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/klkjk.PNG )
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/seating_arrangement_syd.PNG )
+
+-------------
+### Day 24: July 21, 2019, Sunday
+1. Read this Doc about ReLu activation function: https://www.kaggle.com/dansbecker/rectified-linear-units-relu-in-deep-learning
+2. Completed Kaggle Deep Learning Course: https://www.kaggle.com/learn/deep-learning (Lesson 11 to Lesson 14 today)
+3. Continuing with Andrew Ng Machine Learning Course in Coursera
+4. Watched https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=1
+5. Spend some time for slack app challenge
+6. I would like to encourage @Aditi Gupta @Aditya Hegde @Aditya Joshi @Aditya Kashyap @Aditya Kaushik @Aditya Kumar @Aditya Malik @Aditya Sharma @Aditya Sharma @Aditya Sinha @Aditya Srivastava to join this #60daysofudacity challenge and to complete this course successfully
