@@ -221,3 +221,11 @@ https://www.youtube.com/watch?v=9D_jxOMZmRI
 4. Watched https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=1
 5. Spend some time for slack app challenge
 6. I would like to encourage @Aditi Gupta @Aditya Hegde @Aditya Joshi @Aditya Kashyap @Aditya Kaushik @Aditya Kumar @Aditya Malik @Aditya Sharma @Aditya Sharma @Aditya Sinha @Aditya Srivastava to join this #60daysofudacity challenge and to complete this course successfully
+
+-------------
+### Day 25: July 22, 2019, Monday
+1. Watched Lecture 01 of Stanford 231n course:
+https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
+2. Revised lesson-2 of ud188 course
+3. Read the article: https://www.nationalgeographic.com/environment/2019/07/artificial-intelligence-climate-change/?fbclid=IwAR3-KBTLWXY-dtQVxqDgVmr-9j8kgZiI2-2o9dx_ixhrZ0NzOkwMBhE2vxA
+4. I would like to encourage @Sebastián Fenoglio @Ankit Choudhary @Ummaruje @Ismaila Hassan @Ismael @Isac Moura Gomes @Isbella @Ahmed @Ahmed Abdo @Ahmed Sameh Abdelwahab afandy Abdelrahman @Ahmed Khalid @Ahmed Meshref  to join this #60daysofudacity  and to complete this course successfully
