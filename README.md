@@ -240,5 +240,5 @@ https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
    Yesterday revised Lesson 2 of ud188:
     and tomorrow's goal is to prepare notes for the research paper and to revise Lesson 5 of ud188
 3. I would like to encourage @omar ashraf mohamed sayed @Ismaila Hassan @Isbella @Isac Moura Gomes @Ummaruje @Ismael @Sagar Sudesh Pai @Raluca Ginga @Gedas Gardauskas @Gelila Seifu @Generoso Carbone @George Kimutai @George Igwegbe @Geovani Mendoza @George Spatacean @Geovani Montoya @Gerald Okioma @GERASIMOS VONITSANOS @César Germano @Ivo Georgiev @Kevin Mario Gerard @Aris Geor @Getsemani @Gerel Tumenbayar to join this #60daysofudacity  challenge and to complete this course successfully
-![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/klkjk.PNG )
-![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/seating_arrangement_syd.PNG )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/SResolution.PNG )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/WhyShouldITrustYou.PNG )
