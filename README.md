@@ -229,3 +229,16 @@ https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
 2. Revised lesson-2 of ud188 course
 3. Read the article: https://www.nationalgeographic.com/environment/2019/07/artificial-intelligence-climate-change/?fbclid=IwAR3-KBTLWXY-dtQVxqDgVmr-9j8kgZiI2-2o9dx_ixhrZ0NzOkwMBhE2vxA
 4. I would like to encourage @Sebastián Fenoglio @Ankit Choudhary @Ummaruje @Ismaila Hassan @Ismael @Isac Moura Gomes @Isbella @Ahmed @Ahmed Abdo @Ahmed Sameh Abdelwahab afandy Abdelrahman @Ahmed Khalid @Ahmed Meshref  to join this #60daysofudacity  and to complete this course successfully
+
+-------------
+### Day 26: July 23, 2019, Tuesday
+1. Read two research papers
+   i. “Why Should I Trust You?” Explaining the Predictions of Any Classifier
+   ii. Image Super-Resolution Using Deep Convolutional Networks
+   Now searching for supporting papers mentioned in references to get more insight into the topics and creating notes for the same
+2. Revised Lesson 2 of ud185 today:
+   Yesterday revised Lesson 2 of ud188:
+    and tomorrow's goal is to prepare notes for the research paper and to revise Lesson 5 of ud188
+3. I would like to encourage @omar ashraf mohamed sayed @Ismaila Hassan @Isbella @Isac Moura Gomes @Ummaruje @Ismael @Sagar Sudesh Pai @Raluca Ginga @Gedas Gardauskas @Gelila Seifu @Generoso Carbone @George Kimutai @George Igwegbe @Geovani Mendoza @George Spatacean @Geovani Montoya @Gerald Okioma @GERASIMOS VONITSANOS @César Germano @Ivo Georgiev @Kevin Mario Gerard @Aris Geor @Getsemani @Gerel Tumenbayar to join this #60daysofudacity  challenge and to complete this course successfully
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/klkjk.PNG )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/seating_arrangement_syd.PNG )
