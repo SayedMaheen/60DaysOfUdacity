@@ -242,3 +242,11 @@ https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
 3. I would like to encourage @omar ashraf mohamed sayed @Ismaila Hassan @Isbella @Isac Moura Gomes @Ummaruje @Ismael @Sagar Sudesh Pai @Raluca Ginga @Gedas Gardauskas @Gelila Seifu @Generoso Carbone @George Kimutai @George Igwegbe @Geovani Mendoza @George Spatacean @Geovani Montoya @Gerald Okioma @GERASIMOS VONITSANOS @César Germano @Ivo Georgiev @Kevin Mario Gerard @Aris Geor @Getsemani @Gerel Tumenbayar to join this #60daysofudacity  challenge and to complete this course successfully
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/SResolution.PNG )
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/WhyShouldITrustYou.PNG )
+
+-------------
+### Day 27: July 24, 2019, Wednesday
+1. Labelled and Created a Demo dataset for the project
+https://github.com/SayedMaheen/sg_PlanetEarth
+2. Worked on our Demo dataset for the project "Smogdetection" #sg_planetearth  using transfer learning... Goal is to create new architecture for our dataset
+3. Revised Lesson-5 of ud188 course
+4. I would like to encourge @Kapil @Daniel Kim @Daniela Velásquez @Deepak @Deepak @Deepak Kumar @Deepak Kumar Sahu @Deepak Kumar Sahu @Deepak Kumar @Deepak Mehra @Deepak Mehra @Deepak Mehra @Deepak Mehra @DEEPIKA JAISWAL @Deepak Singh @Deepak Singh @DEEPIKA JAISWAL @Deepak Mittal @Deepak Mittal @Deepak Pratap Sahoo @Deepak Pratap Sahoo @Deepak Selvakumar @Deepak Selvakumar @Deepak Shrestha @Deepak Shrestha @Deepanshu @Deepika Katiyar @Deepika Katiyar @Deepanshu @Nishant Deepak Keni to join this #60daysofudacity  challenge and to complete this  course successfully
