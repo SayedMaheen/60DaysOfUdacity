@@ -250,3 +250,10 @@ https://github.com/SayedMaheen/sg_PlanetEarth
 2. Worked on our Demo dataset for the project "Smogdetection" #sg_planetearth  using transfer learning... Goal is to create new architecture for our dataset
 3. Revised Lesson-5 of ud188 course
 4. I would like to encourge @Kapil @Daniel Kim @Daniela Velásquez @Deepak @Deepak @Deepak Kumar @Deepak Kumar Sahu @Deepak Kumar Sahu @Deepak Kumar @Deepak Mehra @Deepak Mehra @Deepak Mehra @Deepak Mehra @DEEPIKA JAISWAL @Deepak Singh @Deepak Singh @DEEPIKA JAISWAL @Deepak Mittal @Deepak Mittal @Deepak Pratap Sahoo @Deepak Pratap Sahoo @Deepak Selvakumar @Deepak Selvakumar @Deepak Shrestha @Deepak Shrestha @Deepanshu @Deepika Katiyar @Deepika Katiyar @Deepanshu @Nishant Deepak Keni to join this #60daysofudacity  challenge and to complete this  course successfully
+
+-------------
+### Day 28: July 25, 2019, Thursday
+1. Completed section 1: of Applied Deep Learning: Build a Chatbot course from udemy
+https://www.udemy.com/applied-deep-learning-build-a-chatbot-theory-application/
+2. Working on Group Project "Smog Detection" #sg_planetearth
+3. I would like to encourage @Daniel Ivan Parra Verde @Danelly Montañez Hernández @Daniel Carlson @Daniel @Dani Santos @Daniel Federschmidt @Daniel Perico @Brian David Peña Morales @Andrés David Guerra Vásconez to join this #60daysofudacity  challenge and to complete this course successfully
