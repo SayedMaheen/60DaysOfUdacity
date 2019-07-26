@@ -257,3 +257,9 @@ https://github.com/SayedMaheen/sg_PlanetEarth
 https://www.udemy.com/applied-deep-learning-build-a-chatbot-theory-application/
 2. Working on Group Project "Smog Detection" #sg_planetearth
 3. I would like to encourage @Daniel Ivan Parra Verde @Danelly Montañez Hernández @Daniel Carlson @Daniel @Dani Santos @Daniel Federschmidt @Daniel Perico @Brian David Peña Morales @Andrés David Guerra Vásconez to join this #60daysofudacity  challenge and to complete this course successfully
+
+-------------
+### Day 29: July 26, 2019, Friday
+1. Completed 2nd and 3rd section of Applied Deep Learning: Build a Chatbot course from udemy https://www.udemy.com/applied-deep-learning-build-a-chatbot-theory-application/
+2. Completed concepts of RNN and LSTM
+3. I would Like to encourage @David Adelani @Davis @David Akuma @Johan David Ballesteros @Joshua David Triana Madrid @María José Meneses @Jose Libreros @José Garza @Joseph Bernadas @Jose Fernando Garcia Junior to join this #60daysofudacity challenge and to complete this course successfully
