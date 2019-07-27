@@ -263,3 +263,8 @@ https://www.udemy.com/applied-deep-learning-build-a-chatbot-theory-application/
 1. Completed 2nd and 3rd section of Applied Deep Learning: Build a Chatbot course from udemy https://www.udemy.com/applied-deep-learning-build-a-chatbot-theory-application/
 2. Completed concepts of RNN and LSTM
 3. I would Like to encourage @David Adelani @Davis @David Akuma @Johan David Ballesteros @Joshua David Triana Madrid @María José Meneses @Jose Libreros @José Garza @Joseph Bernadas @Jose Fernando Garcia Junior to join this #60daysofudacity challenge and to complete this course successfully
+
+-------------
+### Day 30: July 27, 2019, Saturday
+1. Continuing with section 4 : of course https://www.udemy.com/applied-deep-learning-build-a-chatbot-theory-application/
+2. I would like to encourage @Ankit Gokhroo @Ankit Gokhroo @Ankit Dimri @Ankit Raj Ojha @Ankit Mishra @Ankit Singh @Ankita @Ankit Raj Ojha @Pranay @Ankita Bhagat @devindatt @Devansh Batra @Dev Kant Chouhan @Sachin Dev @Huawei Jian @Yanqi @Hui Jen Yee to join this #60daysofudacity challenge and to complete this course successfully
