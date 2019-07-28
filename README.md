@@ -268,3 +268,9 @@ https://www.udemy.com/applied-deep-learning-build-a-chatbot-theory-application/
 ### Day 30: July 27, 2019, Saturday
 1. Continuing with section 4 : of course https://www.udemy.com/applied-deep-learning-build-a-chatbot-theory-application/
 2. I would like to encourage @Ankit Gokhroo @Ankit Gokhroo @Ankit Dimri @Ankit Raj Ojha @Ankit Mishra @Ankit Singh @Ankita @Ankit Raj Ojha @Pranay @Ankita Bhagat @devindatt @Devansh Batra @Dev Kant Chouhan @Sachin Dev @Huawei Jian @Yanqi @Hui Jen Yee to join this #60daysofudacity challenge and to complete this course successfully
+
+-------------
+### Day 31: July 28, 2019, Sunday
+1. Completed section 4 and continuing with section 5: of udemy course https://www.udemy.com/applied-deep-learning-build-a-chatbot-theory-application/
+2. Revised Style Transfer and RNN part of ud188
+3. I would like to encourage @Ertan Kara @Umang @Umar @umi @Umar @Umar @Umar Hassan @Muhammad Umar Amanat @Umang Vallurie @Yuliia @Sandra Picaza Yustos @MD ABU YUSUF @Lalu Erfandi Maula Yusnu @Yuthika Sagarage @Yusra Shahid @Yusra Albarazi @Yuriy Pobezhymov @Yuri Azar @yuan @Sandra Picaza Yustos @MD ABU YUSUF @Lalu Erfandi Maula Yusnu to join this #60daysofudacity  challenge and to complete this course successfully
