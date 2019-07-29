@@ -274,3 +274,10 @@ https://www.udemy.com/applied-deep-learning-build-a-chatbot-theory-application/
 1. Completed section 4 and continuing with section 5: of udemy course https://www.udemy.com/applied-deep-learning-build-a-chatbot-theory-application/
 2. Revised Style Transfer and RNN part of ud188
 3. I would like to encourage @Ertan Kara @Umang @Umar @umi @Umar @Umar @Umar Hassan @Muhammad Umar Amanat @Umang Vallurie @Yuliia @Sandra Picaza Yustos @MD ABU YUSUF @Lalu Erfandi Maula Yusnu @Yuthika Sagarage @Yusra Shahid @Yusra Albarazi @Yuriy Pobezhymov @Yuri Azar @yuan @Sandra Picaza Yustos @MD ABU YUSUF @Lalu Erfandi Maula Yusnu to join this #60daysofudacity  challenge and to complete this course successfully
+
+-------------
+### Day 32: July 29, 2019, Monday
+1. Completed section 5 and continuing with section 6: of udemy chatbot course https://www.udemy.com/applied-deep-learning-build-a-chatbot-theory-application/
+2. Working with RNN part of ud188 course
+3. Trying to improve the accuracy of prediction on SmogDetection Dataset and to improve the dataset by adding more pics from group members github repos
+4. I would like to encourage @Eslam Abuelseaoud @eslam mohammed abdelaziz @Esteban Wilfredo Vilca Zuñiga @Esther @Esvin Molina Guevara @Sandra Picaza Yustos @Étienne Piérard Dansereau @Bhavyang Achhodawala @Miguel Barrera @Miguel Delgado @Monica Rodriguez @Sourav Mondal @Railey Montalan @Lili Monroy @Javier Montero @Ruxandra Monorean @Robinson Lopez Monzon @Edwin Montoya Jaramillo @Juan Montesinos to join this #60daysofudacity challenge and to complete  this course successfully
