@@ -281,3 +281,16 @@ https://www.udemy.com/applied-deep-learning-build-a-chatbot-theory-application/
 2. Working with RNN part of ud188 course
 3. Trying to improve the accuracy of prediction on SmogDetection Dataset and to improve the dataset by adding more pics from group members github repos
 4. I would like to encourage @Eslam Abuelseaoud @eslam mohammed abdelaziz @Esteban Wilfredo Vilca Zuñiga @Esther @Esvin Molina Guevara @Sandra Picaza Yustos @Étienne Piérard Dansereau @Bhavyang Achhodawala @Miguel Barrera @Miguel Delgado @Monica Rodriguez @Sourav Mondal @Railey Montalan @Lili Monroy @Javier Montero @Ruxandra Monorean @Robinson Lopez Monzon @Edwin Montoya Jaramillo @Juan Montesinos to join this #60daysofudacity challenge and to complete  this course successfully
+
+-------------
+### Day 33: July 30, 2019, Tuesday
+1. Continuing with section 6: of udemy chatbot course https://www.udemy.com/applied-deep-learning-build-a-chatbot-theory-application/
+2. Working with "SmogDetection" a small dataset #sg_planetearth https://github.com/SayedMaheen/sg_PlanetEarth and got some nice result
+3. Modified same model and conduct a test run on cat and dog classifier
+4. Continuing with RNN and Sentiment Prediction RNNs part of ud188
+5. I would like to encourage @Shashank Gupta @Jyotsna Gupta @Hanshika Gupta @Akshit Gupta @Nurani Saoda @Sachin Lamba @Ruslan Salyakhov @Muhammad Mikaal Saleem Anwar @Oren Joshua Saldanha @jean salvi @Abdullah Saleh to join this #60daysofudacity  challenge and to complete this course successfully
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/model smog.PNG )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/smog1.PNG )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/accu_smog.PNG )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/smog show.PNG )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/chatbot_tut.PNG )
