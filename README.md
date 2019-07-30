@@ -289,8 +289,8 @@ https://www.udemy.com/applied-deep-learning-build-a-chatbot-theory-application/
 3. Modified same model and conduct a test run on cat and dog classifier
 4. Continuing with RNN and Sentiment Prediction RNNs part of ud188
 5. I would like to encourage @Shashank Gupta @Jyotsna Gupta @Hanshika Gupta @Akshit Gupta @Nurani Saoda @Sachin Lamba @Ruslan Salyakhov @Muhammad Mikaal Saleem Anwar @Oren Joshua Saldanha @jean salvi @Abdullah Saleh to join this #60daysofudacity  challenge and to complete this course successfully
-![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/model smog.PNG )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/model%20%smog.PNG )
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/smog1.PNG )
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/accu_smog.PNG )
-![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/smog show.PNG )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/smog%20%show.PNG )
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/chatbot_tut.PNG )
