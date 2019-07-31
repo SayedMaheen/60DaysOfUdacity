@@ -300,3 +300,5 @@ https://www.udemy.com/applied-deep-learning-build-a-chatbot-theory-application/
 1. Working on Style Transfer T-Shirt Project for Submission
 2. Continuing with section 6: of udemy chatbot course https://www.udemy.com/applied-deep-learning-build-a-chatbot-theory-application/
 3. I would like to encourage @Rebeca Andrade @Abdul Rehman @AFSHEEN REHMAN @Rahul Ragesh @Rahul Kumar Gupta @Meghna Raguraman @Ragu Manjegowda @Musarrat Rahman @Syed Rafay Hashmi @Muh Rahmatullah @Mrugendra @MD.MOHIBUR RAHMAN @Abdul Rahim @Mohd.Anas @Abhishek Annamraju @Anna Drude @Ann Lee to join this #60daysofudacity  challenge and to complete this course successfully
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/hi.PNG )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/mix.PNG )
