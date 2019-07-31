@@ -294,3 +294,9 @@ https://www.udemy.com/applied-deep-learning-build-a-chatbot-theory-application/
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/accu_smog.PNG )
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/smog&#32;show.PNG )
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/chatbot_tut.PNG )
+
+-------------
+### Day 34: July 31, 2019, Wednesday
+1. Working on Style Transfer T-Shirt Project for Submission
+2. Continuing with section 6: of udemy chatbot course https://www.udemy.com/applied-deep-learning-build-a-chatbot-theory-application/
+3. I would like to encourage @Rebeca Andrade @Abdul Rehman @AFSHEEN REHMAN @Rahul Ragesh @Rahul Kumar Gupta @Meghna Raguraman @Ragu Manjegowda @Musarrat Rahman @Syed Rafay Hashmi @Muh Rahmatullah @Mrugendra @MD.MOHIBUR RAHMAN @Abdul Rahim @Mohd.Anas @Abhishek Annamraju @Anna Drude @Ann Lee to join this #60daysofudacity  challenge and to complete this course successfully
