@@ -302,3 +302,19 @@ https://www.udemy.com/applied-deep-learning-build-a-chatbot-theory-application/
 3. I would like to encourage @Rebeca Andrade @Abdul Rehman @AFSHEEN REHMAN @Rahul Ragesh @Rahul Kumar Gupta @Meghna Raguraman @Ragu Manjegowda @Musarrat Rahman @Syed Rafay Hashmi @Muh Rahmatullah @Mrugendra @MD.MOHIBUR RAHMAN @Abdul Rahim @Mohd.Anas @Abhishek Annamraju @Anna Drude @Ann Lee to join this #60daysofudacity  challenge and to complete this course successfully
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/hi.PNG )
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/mix.PNG )
+
+-------------
+### Skip Day: August 1, 2019, Thursday
+
+-------------
+### Day 35: August 2, 2019, Friday
+1. Completed revision of RNN and continuing with sentiment RNNs
+2. Completed section 6 and continuing with section 7 of  udemy chatbot course https://www.udemy.com/applied-deep-learning-build-a-chatbot-theory-application/
+3.  10 hours of travel to get Raspberry Pi's and accessories for federated learning using Raspberry Pi and #sg_pytorch-robotics projects
+4. I would like to encourage @Berenice @Shudipto Trafder @Akash Antony @LauraT @Ingus Terbets @Viper @par @Nirupama Singh @Eileen @sourav kumar to complete this course and #60daysofudacity  challenge successfully
+5. https://github.com/SayedMaheen/60DaysOfUdacity
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/rasp1.jpg )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/rasp2.jpg )
+
+-------------
+
