@@ -317,4 +317,16 @@ https://www.udemy.com/applied-deep-learning-build-a-chatbot-theory-application/
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/rasp2.jpg )
 
 -------------
-
+### Day 36: August 3, 2019, Saturday
+1. Attented meetup for #sg_planetearth  "SmogDetection" project hosted by @Shudipto Trafder , discussed few topics to towards the successful completion of the project for project showcase challenge with study-group buddies @Shudipto Trafder @Berenice @Akash Antony @Pooja Vinod @Ingus Terbets @Alexander Villasoto @Agata [OR, USA] @sourav kumar @Viper @Hung
+2. Attented meetup for #sg_pytorch-robotics  projects hosted by @Helena Barmer  with study group buddies @Juan Carlos Kuri Pinto @Muhammad Naufil @Pooja Vinod @Jess @Bhadresh Savani @Oudarjya Sen Sarma @Suparna S Nair @Lisa Crossman @Temitope Oladokun @Sourav @Nirupama Singh @Dammy @Molly-ngampit @Tanat Tonguthaisri @Ebinbin Ajagun @Divya @susyjam @Joyce @Stanislav Ladyzhenskiy @Mahitej
+3. Completed ud188 course and revision successfully
+4. Working on Github repos shared by "Smog Detection" project participants to combine them together to make a good dataset and to get rid of duplicate data
+5. I would like to encourage all those mentioned above for the successful completion of this course and #60daysofudacity challenge
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/screen1.png )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/screen2.png )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/screen3.png )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/screen4.png )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/screen5.png )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/screen6.png )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/screen7.png )
