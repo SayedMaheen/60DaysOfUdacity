@@ -330,3 +330,10 @@ https://www.udemy.com/applied-deep-learning-build-a-chatbot-theory-application/
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/screen5.png )
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/screen6.png )
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/screen7.png )
+
+-------------
+### Day 37: August 4, 2019, Sunday
+1. Completed udemy chatbot course https://www.udemy.com/applied-deep-learning-build-a-chatbot-theory-application/
+Notebook for the Chatbot course is available from https://pytorch.org/tutorials/beginner/chatbot_tutorial.html
+2. Continuing with Dataset for SmogDetection project from #sg_planetearth
+3. I would like to encourage @Anish Kumar @Rhea Prasad @Rhythm @Ritik Pratap Singh @Ritik Jain @Tiago Gonçalves @Timothy Barten @Ritesh Gangnani @Timothy Lue @Shikhar Tiwari @Roland Tian @Prashant @Kathy Tian @Anubhav Tikku @Akhil Tiwari @Intisar Tahmid Naheen  to join this #60daysofudacity  channel and to complete this course successfully
