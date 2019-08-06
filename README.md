@@ -343,3 +343,12 @@ Notebook for the Chatbot course is available from https://pytorch.org/tutorials/
 1. Continuing with cleaning, labelling, adding data to the Dataset for SmogDetection project from #sg_planetearth
 2. Dataset will be available from https://github.com/SayedMaheen/sg_PlanetEarth
 3. I would like to encourage @Oshani Weerakoon @Phani Raj @Rahul.P @Rahul Thengadi @Rahul Sharma @Rahul Ranjan @Rahul Changlani @Rahul Arulkumaran @MasterKN @Nitish Sahani @NITISH KUMAR SHARMA @Nitish Kumar @Nitin Chauhan @Nitin @Nitesh to join this #60daysofudacity  challenge and to complete this course succesfully
+
+-------------
+### Day 39: August 6, 2019, Tuesday
+1. Finally created dataset "Smog4000" for "SmogDetection" project from #sg_planetearth, Data Cleaning is really time consuming and took two days for all processes and finally made it
+https://secureprivataischolar.slack.com/archives/CKZ9J1KNV/p1565116278276600
+2. I would like to encourage all group members @Berenice @Ingus Terbets @Agata [OR, USA] @Shudipto Trafder @Akash Antony @Pooja Vinod @Hung @Alexander Villasoto @sourav kumar @Viper @Ashwin Ram @Nirupama Singh @LauraT @Kelvin Kwok @Ish @George Christopoulos @Eileen @Deepak @Carlo David @Aniket Thomas to complete the course and projects successfully
+
+Dataset is available from this link:
+https://drive.google.com/open?id=1ifKDpuF3zvEvsuBfZ4ZogSqWKZSxllKK
