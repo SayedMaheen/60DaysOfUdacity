@@ -352,3 +352,11 @@ https://secureprivataischolar.slack.com/archives/CKZ9J1KNV/p1565116278276600
 
 Dataset is available from this link:
 https://drive.google.com/open?id=1ifKDpuF3zvEvsuBfZ4ZogSqWKZSxllKK
+
+-------------
+### Day 40: August 7, 2019, Wednesday
+1. Working with Smog4000 dataset #sg_planetearth
+2. Setting up Raspberry Pi's for #sg_pytorch-robotics
+3. I would like to encourage @Danny Huanca @Ioannis Deliakos @ChayanDatta @Thanh Danh mai @zynab @Yassine Jaoudi @yasser latreche @Yasser Hossam @Yassen Mehrez @Yasir Iqbal @Yashwanthkorla @Yash Agarwal @Yash Singhal @Yash Sharma @Yash Patel @Yash Lamba @Yash Kulkarni @Yash Desai @yeliz @Sai Kiran Yernena @Yelman Khan @JIN Zhou @Jingqi @Jingxiao to join this #60daysofudacity  challenge and to complete this course successfully
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/IMG_20190807_231838.jpg )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/IMG_20190808_001642.jpg )
