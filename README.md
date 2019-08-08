@@ -360,3 +360,14 @@ https://drive.google.com/open?id=1ifKDpuF3zvEvsuBfZ4ZogSqWKZSxllKK
 3. I would like to encourage @Danny Huanca @Ioannis Deliakos @ChayanDatta @Thanh Danh mai @zynab @Yassine Jaoudi @yasser latreche @Yasser Hossam @Yassen Mehrez @Yasir Iqbal @Yashwanthkorla @Yash Agarwal @Yash Singhal @Yash Sharma @Yash Patel @Yash Lamba @Yash Kulkarni @Yash Desai @yeliz @Sai Kiran Yernena @Yelman Khan @JIN Zhou @Jingqi @Jingxiao to join this #60daysofudacity  challenge and to complete this course successfully
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/IMG_20190807_231838.jpg )
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/IMG_20190808_001642.jpg )
+
+-------------
+### Day 41: August 8, 2019, Thursday
+1. Setting up pysyft on raspberry pi's for "FEDERATED LEARNING OF A RECURRENT NEURAL NETWORK ON RASPBERRY PIS"
+https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/
+2. Also made my laptop bootable with Ubuntu 18.04 LTS for the project
+3. Networking needs to be done for workers in federated learning
+4. Plan for tomorrow: "Will complete training model on Smog4000 dataset"
+5. I would like to encourage @Lizzy @Jonathan Igor Bockorny Pereira @Diego Jimenez @Juan Diego Alvarez Riveros @Diego Morales @Diego Castellanos @Diego Acosta @Ashutosh Chapagain @Victor Matheus dos Reis Nascimento @Nikhil Vinay Sharma @Vianney Ribeiro @Nicolas Luiz Ribeiro Veiga @Nihal Chauhan @Igor Vaz @Vishal Ghorpade @Ivan Vigorito @Mohab Diab @Abhiram Vijayan @Vivek Aithal @VICTOR AYOGU @Victor Arias to join this #60daysofudacity  challenge and to complete this course successfully
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/IMG_20190809_001239.jpg )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/IMG_20190809_001303.jpg )
