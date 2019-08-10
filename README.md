@@ -377,4 +377,6 @@ https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/
 1. Stuck at few stages of Pysyft dependencies installation for federated learning using raspberry pi
 2. Trained some models on Smog4000 dataset and best result is one with 90% accuracy
 3. Continuing the above with more insight
-4. I would like to encourage @Reem Abdel-Salam @Ping Lin @piyush @Kumar Piyush @Piyush Sinha @Piyush Nikam @Piyush Mehta @Piyush Mehta @Piyush Maiti @Piyush Kant Maav @Piyush Gupta @piyush bansal @Piyush @Piyush to join this #60daysofudacity  challenge and to complete this course successfully (
+4. I would like to encourage @Reem Abdel-Salam @Ping Lin @piyush @Kumar Piyush @Piyush Sinha @Piyush Nikam @Piyush Mehta @Piyush Mehta @Piyush Maiti @Piyush Kant Maav @Piyush Gupta @piyush bansal @Piyush @Piyush to join this #60daysofudacity  challenge and to complete this course successfully 
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/model_smog4000.PNG )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/smog40004thttt.PNG)
