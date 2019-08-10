@@ -380,3 +380,17 @@ https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/
 4. I would like to encourage @Reem Abdel-Salam @Ping Lin @piyush @Kumar Piyush @Piyush Sinha @Piyush Nikam @Piyush Mehta @Piyush Mehta @Piyush Maiti @Piyush Kant Maav @Piyush Gupta @piyush bansal @Piyush @Piyush to join this #60daysofudacity  challenge and to complete this course successfully 
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/model_smog4000.PNG )
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/smog40004thttt.png)
+
+-------------
+### Day 43: August 10, 2019, Saturday
+1. Attended Meetup #sg_study_jahm  Topic: AI Cyborgs & Neuralink
+We shared our thoughts and worries over Brain-Machine interface and Elon Musk's Neuralink and People becoming Machines. No system is safe, and this will lead to manipulation of thought process and make several copies of human brain. Instead of people learning through different thought process and conclude things different ways, this technology will make copies of data and will become vulnerable when it loses control and end up in hands of any organisation or dictators. We discussed  a lot
+2. Attended Meetup #sg_pytorch-robotics  Topic: Self-driving cars and Flying-cars
+3. Tried challenge Task 25 & 26 from #sg_pytorch_begin,  working on 27th one
+https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/Pytorch%20Begin%20Notes.ipynb
+4. I would like to encourage @Helena Barmer @Muhammad Naufil @Juan Carlos Kuri Pinto @Pooja Vinod @Temitope Oladokun @Nirupama Singh @Ivy @Shudipto Trafder @Bhadresh Savani @Mateusz @Mahitej @cibaca @Jess @Elena Kutanov @Suparna S Nair @Ingus Terbets @Gogulaanand R @Stark @Oudarjya Sen Sarma @Frida @Labiba @susyjam to complete this challenge successfully
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Study&#32;Jahm&#32;August&#32;10.PNG )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/PyTorch&#32;Robotics&#32;August&#32;10.PNG)
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/triedchallenge25.PNG )
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/triedchallenge26.png)
+
