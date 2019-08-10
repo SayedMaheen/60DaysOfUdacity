@@ -389,8 +389,8 @@ We shared our thoughts and worries over Brain-Machine interface and Elon Musk's 
 3. Tried challenge Task 25 & 26 from #sg_pytorch_begin,  working on 27th one
 https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/Pytorch%20Begin%20Notes.ipynb
 4. I would like to encourage @Helena Barmer @Muhammad Naufil @Juan Carlos Kuri Pinto @Pooja Vinod @Temitope Oladokun @Nirupama Singh @Ivy @Shudipto Trafder @Bhadresh Savani @Mateusz @Mahitej @cibaca @Jess @Elena Kutanov @Suparna S Nair @Ingus Terbets @Gogulaanand R @Stark @Oudarjya Sen Sarma @Frida @Labiba @susyjam to complete this challenge successfully
-![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Study&#32;Jahm&#32;August&#32;10.PNG )
-![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/PyTorch&#32;Robotics&#32;August&#32;10.PNG)
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Study&#32;Jahm&#32;August&#32;10.png)
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/PyTorch&#32;Robotics&#32;August&#32;10.png)
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/triedchallenge25.PNG )
-![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/triedchallenge26.png)
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/triedchallenge26.PNG)
 
