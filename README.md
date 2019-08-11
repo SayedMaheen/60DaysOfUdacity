@@ -394,3 +394,19 @@ https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/Pytorch%20Begin%20Not
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/triedchallenge25.PNG )
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/triedchallenge26.PNG)
 
+-------------
+### Day 44: August 11, 2019, Sunday
+1. Completed all course content and notebooks upto lesson 8 and about to complete Lesson 9
+2. Working with Smog4000 and trying to improve the Dataset including more scenarios- (Including Night pics and improving accuracy) #sg_planetearth
+3. Watched AI Learned To See In The Dark
+http://cchen156.web.engr.illinois.edu/paper/18CVPR_SID.pdf
+https://www.youtube.com/watch?v=bcZFQ3f26pA
+4. How we teach computers to understand pictures | Fei Fei Li
+https://www.youtube.com/watch?v=40riCqvRoMs
+5. Read Docs and tried few
+https://pytorch.org/docs/stable/tensors.html
+https://jhui.github.io/2018/02/09/PyTorch-Basic-operations/
+6. The mind behind Linux | Linus Torvalds
+https://www.youtube.com/watch?v=o8NPllzkFhE
+7. Stuck at 4th part of Challenge Task 27- from #sg_pytorch_begin
+8. I would like to encourage @Hudarsono @Adham Mostafa Hussain Hosny Ali Elkhatib @Phil Huang @Shumei(Rose) Huang @Mason Chang @Danielle Chen @Dennis Chen @Jc @Yenni @harish chennupati @Hang Chen @Ella Chen @Utkarsh Tiwari @Anas @Kirollos Hanna @Hamza Hanif @Arpit Aneja @Neisser Alonzo Ale @Salih Akşit @sal cham @Matheus de Almeida Silva @Taylor @Punita @Purna Satria Nugraha @Nuria Puig to join this #60daysofudacity  challenge and to complete this course successfully 
