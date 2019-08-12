@@ -410,3 +410,9 @@ https://jhui.github.io/2018/02/09/PyTorch-Basic-operations/
 https://www.youtube.com/watch?v=o8NPllzkFhE
 7. Stuck at 4th part of Challenge Task 27- from #sg_pytorch_begin
 8. I would like to encourage @Hudarsono @Adham Mostafa Hussain Hosny Ali Elkhatib @Phil Huang @Shumei(Rose) Huang @Mason Chang @Danielle Chen @Dennis Chen @Jc @Yenni @harish chennupati @Hang Chen @Ella Chen @Utkarsh Tiwari @Anas @Kirollos Hanna @Hamza Hanif @Arpit Aneja @Neisser Alonzo Ale @Salih Akşit @sal cham @Matheus de Almeida Silva @Taylor @Punita @Purna Satria Nugraha @Nuria Puig to join this #60daysofudacity  challenge and to complete this course successfully 
+
+-------------
+### Day 45: August 12, 2019, Monday
+1. Continuing with Lesson 9
+2. Learning Heroku for Classification Project Deployment
+3. I would like to encourage @Goumiri Isra Chahrazed @Akash Gotmare @Abhi Goswami @Nicolas Gomez @Goutham @Gokul Kannan @Gokturk Gok @Gokhan Simsek @godha @Goumiri Isra Chahrazed @Mahmoud Assaf @Ashwin Sreevatsa @Jorge Santiago Ayala Sáenz @HastagAB @Oishee Bintey Hoque @Placide @Pleng Nakdee @Lukas Pollmann to join this #60daysofudacity challenge and to complete this course successfully
