@@ -416,3 +416,12 @@ https://www.youtube.com/watch?v=o8NPllzkFhE
 1. Continuing with Lesson 9
 2. Learning Heroku for Classification Project Deployment
 3. I would like to encourage @Goumiri Isra Chahrazed @Akash Gotmare @Abhi Goswami @Nicolas Gomez @Goutham @Gokul Kannan @Gokturk Gok @Gokhan Simsek @godha @Goumiri Isra Chahrazed @Mahmoud Assaf @Ashwin Sreevatsa @Jorge Santiago Ayala Sáenz @HastagAB @Oishee Bintey Hoque @Placide @Pleng Nakdee @Lukas Pollmann to join this #60daysofudacity challenge and to complete this course successfully
+
+-------------
+### Day 46: August 13, 2019, Tuesday
+1. Completed this course successfully
+2. Virtual meetup with #sg_pytorch-robotics  members @Elena Kutanov @Ankur Bhatia @cibaca @Suparna S Nair @Sankalp Dayal @Jess  @Stanislav Ladyzhenskiy @Shashi Gharti @Nirupama Singh @susyjam@Ebinbin Ajagun @Ayesha Manzur @Sushil Ghimire @Helena Barmer
+3. Working on Smog4000 dataset for project showcase challenge with #sg_planetearth  members @Agata [OR, USA]@Akash Antony@Alexander Villasoto@Berenice@Ingus Terbets@Pooja Vinod@Shudipto Trafder@sourav kumar@Viper@Hung @George Christopoulos
+4. i would like to encourage @Elena Kutanov @Ankur Bhatia @cibaca @Suparna S Nair @Sankalp Dayal @Jess  @Stanislav Ladyzhenskiy @Shashi Gharti @Nirupama Singh @susyjam@Ebinbin Ajagun @Ayesha Manzur @Sushil Ghimire @Helena Barmer @Agata [OR, USA]@Akash Antony@Alexander Villasoto@Berenice@Ingus Terbets@Pooja Vinod@Shudipto Trafder@sourav kumar@Viper@Hung @George Christopoulos @Frida @Lyssa Stiller @Stark @Andy @LauraT @Rishi S Rao @Akshay Rajmohan @Aleksandra Deis @Droid @Juan Carlos Kuri Pinto @ayivima @Eileen @Anshu Trivedi @Ashish 
+Shrivastava
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/PyTorch&#32;Robotics&#32;August&#32;13.png)
