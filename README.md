@@ -425,3 +425,10 @@ https://www.youtube.com/watch?v=o8NPllzkFhE
 4. i would like to encourage @Elena Kutanov @Ankur Bhatia @cibaca @Suparna S Nair @Sankalp Dayal @Jess  @Stanislav Ladyzhenskiy @Shashi Gharti @Nirupama Singh @susyjam@Ebinbin Ajagun @Ayesha Manzur @Sushil Ghimire @Helena Barmer @Agata [OR, USA]@Akash Antony@Alexander Villasoto@Berenice@Ingus Terbets@Pooja Vinod@Shudipto Trafder@sourav kumar@Viper@Hung @George Christopoulos @Frida @Lyssa Stiller @Stark @Andy @LauraT @Rishi S Rao @Akshay Rajmohan @Aleksandra Deis @Droid @Juan Carlos Kuri Pinto @ayivima @Eileen @Anshu Trivedi @Ashish 
 Shrivastava
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/PyTorch&#32;Robotics&#32;August&#32;13.png)
+
+-------------
+### Day 47: August 14, 2019, Wednesday
+1. Watched Webinar - Putting Humans at the Center of AI- Fei-Fei Lee, Sebastian Thrun
+ https://www.youtube.com/watch?v=Ev9BUGoOp64
+2. Working on Federated Learning Using Raspberry Pi's -Project #sg_pytorch-robotics 
+3. I would like to encourage @Jean Cheikh @Kouassi Jean-Claude @Marco Libra @Kay Liang @Kristy Li @Haochen Li @Faye Li @Amy Liffey @Sang Lee @Joyce Lee @Jhesus Legarda @Hung Le @Aileen Villanueva Lecuona @Leah to join this #60daysofudacity  challenge and to complete this course successfully
