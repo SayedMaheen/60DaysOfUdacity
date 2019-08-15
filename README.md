@@ -432,3 +432,12 @@ Shrivastava
  https://www.youtube.com/watch?v=Ev9BUGoOp64
 2. Working on Federated Learning Using Raspberry Pi's -Project #sg_pytorch-robotics 
 3. I would like to encourage @Jean Cheikh @Kouassi Jean-Claude @Marco Libra @Kay Liang @Kristy Li @Haochen Li @Faye Li @Amy Liffey @Sang Lee @Joyce Lee @Jhesus Legarda @Hung Le @Aileen Villanueva Lecuona @Leah to join this #60daysofudacity  challenge and to complete this course successfully
+
+-------------
+### Day 48: August 15, 2019, Thursday
+1. Working on #sg_pytorch-robotics  Federated learning Project
+2. Working with SmogDetection project #sg_planetearth
+3. Creating Jupyter Notebooks for #sg_pytorch_begin  challenge tasks
+4. I would like to encourage @Penny @Gaurav Hulmukh @Charles Hugo @Nurul Huda Hossain @Anish Gupta @hurcy @huijing @Tanya Dubey @Sagar Dubey @bhaskar dutt @Ankan Dutta @Sukru BEZEN @Manpreet Budhraja @Gaurav Burjwal @Ivan Budanaev @Julia Matas @Juan Manuel Castro Arnez to join this #60daysofudacity  challenge and to complete this course successfully
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Screenshot from 2019-08-15 22-34-11.png)
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/IMG_20190816_003309.jpg)
