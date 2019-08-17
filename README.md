@@ -446,3 +446,15 @@ Shrivastava
 ### Day 49: August 16, 2019, Friday
 1. Working on #sg_pytorch-robotics  project;  Now am setting up raspberry pi's using docker image. I had issues installing PySyft in normal way. 
 2. I would like to encourage @Harsh Pal @Harsh Gaur @Megan Ung @Uyanga (Melody) Sumiya @umm.waitwhat @Umer Khan @AL IMRAN @Andrew Ishak @Pye Sone Kyaw @Hyunsu Park @Hyunsu Park @Erol Parmaksiz @Erol Parmaksiz @Janas Chatkevicius @Antoreep Jana @Naser Jamal Masalma @Ajay Jangid @Victoria @Varun Lall @Daycrawler to join this #60daysofudacity  challenge and to complete this course successfully
+
+-------------
+### Day 50: August 17, 2019, Saturday
+1. Still working on federated learning using raspberry pi #sg_pytorch-robotics
+2.. #sg_planetearth  We are working on Smogdetection project,  check the project: we need to edit the web interface: but our model is working , it classifies "Smog", "clear" @Abhishek Lalwani https://secureprivataischolar.slack.com/archives/CKZ9J1KNV/p1565982969386000
+:arrow_right: Don't confuse our model, it is clever enough :grinning:
+3. Attended meetup with #sg_study_jahm members
+4. Attended meetup with #sg_pytorch-robotics members
+5. I would like to encourage   @Ebinbin Ajagun@Temitope Oladokun@qursaan@Shivam Raisharma@Jess@Sankalp Dayal@Nirupama Singh@Sushil Ghimire@Pooja Vinod@Juan Carlos Kuri Pinto@Alex Ahumada@Vigneshwari@Shashi Gharti@Nachiket@cibaca@Nirupama Singh@Dammy@Molly-ngampit@Elena Kutanov@Ankur Bhatia  @Ayesha Manzur    @Ivy @Joyce@Suparna S Nair@Sergio Valderrama @Stanislav Ladyzhenskiy @Mika @erinSnPAI @Shudipto Trafder @LauraT @Abhishek Lalwani @Akash Antony @Berenice @Ingus Terbets @Viper @Agata [OR, USA] @Hung
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/IMG_20190818_003324.jpg)
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Study&#32;JAHM&#32;August&#32;17.png)
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/PyTorch&#32;Robotics&#32;Meetup&#32;August&#32;17.png)
