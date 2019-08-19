@@ -465,9 +465,9 @@ Shrivastava
 2. Working with #sg_pytorch-robotics  Federated Learning Project for Project showcase challenge and Solving the issues from error logs
 3. Editing the Github repos for showcase
 4. I would like to encourage @Ajose Aishat @Aimee Shao @Aishwarya Seth @Aigerim Alzhikeyeva @Cynthia Olvera @Cynthia @Juantrice @Juan Jesús Cuautle Martínez @Juan Ignacio Cavalieri @Juan Carlos Espinoza Zurita @Jie Ma @Santiago M. Quintero @Vyjayanth Makena @Vyctoria Karina @Vyacheslav Shkolyar to join this #60daysofudacity  challenge and to complete this course successfully
-![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/jupyter&#32;error&#32;log.txt)
-![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/op&#32;asked.txt)
-![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/worker&#32;error&#32;log.txt)
+ https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/jupyter&#32;error&#32;log.txt
+ https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/op&#32;asked.txt
+ https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/worker&#32;error&#32;log.txt
 
 -------------
 ### Day 52: August 19, 2019, Monday
