@@ -1,0 +1,96 @@
+
+#Now let's define our workers. You can either use remote workers or virtual workers
+hook = sy.TorchHook(torch)  # <-- NEW: hook PyTorch ie add extra functionalities to support Federated Learning
+#alice = sy.VirtualWorker(hook, id="alice")  
+#bob = sy.VirtualWorker(hook, id="bob")  
+#charlie = sy.VirtualWorker(hook, id="charlie") 
+
+#workers_virtual = [alice, bob]
+
+#If you have your workers operating remotely, like on Raspberry PIs
+kwargs_websocket_alice = {"host": "192.168.1.33", "hook": hook}
+alice = WebsocketClientWorker(id="alice", port=8777, **kwargs_websocket_alice)
+kwargs_websocket_bob = {"host": "192.168.1.34", "hook": hook}
+bob = WebsocketClientWorker(id="bob", port=8778, **kwargs_websocket_bob)
+workers_virtual = [alice, bob]
+
+
+///////////////////////////////////////////////////////////////////////////////
+
+
+
+
+#array_lines_proper_dimension = our data points(X)
+#categories_numpy = our labels (Y)
+langDataset =  LanguageDataset(array_lines_proper_dimension, categories_numpy)
+
+#assign the data points and the corresponding categories to workers.
+federated_train_loader = sy.FederatedDataLoader(
+            langDataset
+            .federate(workers_virtual),
+            batch_size=args.batch_size) 
+
+
+
+
+
+---------------------------------------------------------------------------
+#Error log for above cells
+---------------------------------------------------------------------------
+RuntimeError                              Traceback (most recent call last)
+<ipython-input-24-d3e7fc4295cb> in <module>
+      6 federated_train_loader = sy.FederatedDataLoader(
+      7             langDataset
+----> 8             .federate(workers_virtual),
+      9             batch_size=args.batch_size)  
+
+C:\ProgramData\Anaconda3\lib\site-packages\syft\frameworks\torch\federated\dataset.py in dataset_federate(dataset, workers)
+    162         worker = workers[dataset_idx % len(workers)]
+    163         logger.debug("Sending data to worker %s", worker.id)
+--> 164         data = data.send(worker)
+    165         targets = targets.send(worker)
+    166         datasets.append(BaseDataset(data, targets))  # .send(worker)
+
+C:\ProgramData\Anaconda3\lib\site-packages\syft\frameworks\torch\tensors\interpreters\native.py in send(self, inplace, local_autograd, preinitialize_grad, no_wrap, garbage_collect_data, *location)
+    364                 local_autograd=local_autograd,
+    365                 preinitialize_grad=preinitialize_grad,
+--> 366                 garbage_collect_data=garbage_collect_data,
+    367             )
+    368 
+
+C:\ProgramData\Anaconda3\lib\site-packages\syft\workers\base.py in send(self, obj, workers, ptr_id, local_autograd, preinitialize_grad, garbage_collect_data)
+    346             pointer = obj
+    347         # Send the object
+--> 348         self.send_obj(obj, worker)
+    349 
+    350         return pointer
+
+C:\ProgramData\Anaconda3\lib\site-packages\syft\workers\base.py in send_obj(self, obj, location)
+    522                 receive the object.
+    523         """
+--> 524         return self.send_msg(codes.MSGTYPE.OBJ, obj, location)
+    525 
+    526     def request_obj(self, obj_id: Union[str, int], location: "BaseWorker") -> object:
+
+C:\ProgramData\Anaconda3\lib\site-packages\syft\workers\base.py in send_msg(self, msg_type, message, location)
+    227 
+    228         # Step 2: send the message and wait for a response
+--> 229         bin_response = self._send_msg(bin_message, location)
+    230 
+    231         # Step 3: deserialize the response
+
+C:\ProgramData\Anaconda3\lib\site-packages\syft\workers\virtual.py in _send_msg(self, message, location)
+      8 class VirtualWorker(BaseWorker, FederatedClient):
+      9     def _send_msg(self, message: bin, location: BaseWorker) -> bin:
+---> 10         return location._recv_msg(message)
+     11 
+     12     def _recv_msg(self, message: bin) -> bin:
+
+C:\ProgramData\Anaconda3\lib\site-packages\syft\workers\websocket_client.py in _recv_msg(self, message)
+    100             if not self.ws.connected:
+    101                 raise RuntimeError(
+--> 102                     "Websocket connection closed and creation of new connection failed."
+    103                 )
+    104         return response
+
+RuntimeError: Websocket connection closed and creation of new connection failed.
