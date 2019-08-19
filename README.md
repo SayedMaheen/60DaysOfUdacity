@@ -458,3 +458,19 @@ Shrivastava
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/IMG_20190818_003324.jpg)
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Study&#32;JAHM&#32;August&#32;17.png)
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/PyTorch&#32;Robotics&#32;Meetup&#32;August&#32;17.png)
+
+-------------
+### Day 51: August 18, 2019, Sunday
+1. Working with Smog4000 dataset for the project showcase challenge  #sg_planetearth
+2. Working with #sg_pytorch-robotics  Federated Learning Project for Project showcase challenge and Solving the issues from error logs
+3. Editing the Github repos for showcase
+4. I would like to encourage @Ajose Aishat @Aimee Shao @Aishwarya Seth @Aigerim Alzhikeyeva @Cynthia Olvera @Cynthia @Juantrice @Juan Jesús Cuautle Martínez @Juan Ignacio Cavalieri @Juan Carlos Espinoza Zurita @Jie Ma @Santiago M. Quintero @Vyjayanth Makena @Vyctoria Karina @Vyacheslav Shkolyar to join this #60daysofudacity  challenge and to complete this course successfully
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/jupyter&#32;error&#32;log.txt)
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/op&#32;asked.txt)
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/worker&#32;error&#32;log.txt)
+
+-------------
+### Day 52: August 19, 2019, Monday
+1. Working on Federated Learning using Raspberry pi with Pysyft Docker image
+2. Working with SmogDetection project- Smog4000 dataset  and preparing for project showcase #sg_planetearth 
+3. I would like to encourage @LauraT @Berenice @Shudipto Trafder@Pooja Vinod@Ingus Terbets@Akash Antony @Viper @Agata [OR, USA]@Abhishek Lalwani@George Christopoulos @sourav kumar@Alexander Villasoto @Temitope Oladokun @Jess @Sankalp Dayal @Pooja Vinod @Alex Ahumada @Nirupama Singh @Elena Kutanov @Ayesha Manzur @Joyce @Suparna S Nair @Sergio Valderrama @Stanislav Ladyzhenskiy @Mika @Muhammad Naufil @Ebinbin Ajagun @Sushil Ghimire  @cibaca @Juan Carlos Kuri Pinto @Shivam Raisharma@Ivy  
