@@ -110,7 +110,7 @@ https://www.coursera.org/learn/machine-learning
 *Beginner track- Hotdog or not:* It is a simple image classification task where we need to classify from an image whether it contains hotdog or not.
 3. I encourage my study group buddies to complete the challenge successfully
 4. I encourage @Abhishek Sawant @Abdullah Saleh @Reem Abdel-Salam @Sebastián Fenoglio @Osvaldo Marte @Oscar Sandoval Torres @Oscar Flores @Oscar Castillo @omar ashraf mohamed sayed @Oshani Weerakoon to join this #60daysofudacity challenge and complete this course successfully
-![alt text](blob/master/images_notes/Capture.PNG)
+![alt text](https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/Capture.PNG)
 
 ------------
 ### Day 15: July 12, 2019, Friday
