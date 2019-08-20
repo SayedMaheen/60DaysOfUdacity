@@ -481,10 +481,10 @@ Shrivastava
 2. Started writing an article about the errors encountered in setting up Raspberry Pi's and Pysyft dependencies for federated learning
 3. Successfully Submitted SmogDetection Project for Project showcase challenge #sg_planetearth
 4. I would like to encourage @LauraT @Berenice @Shudipto Trafder@Pooja Vinod@Ingus Terbets@Akash Antony @Viper @Agata [OR, USA]@Abhishek Lalwani@George Christopoulos @sourav kumar@Alexander Villasoto @Temitope Oladokun @Jess @Sankalp Dayal @Pooja Vinod @Alex Ahumada @Nirupama Singh @Elena Kutanov @Ayesha Manzur @Joyce @Suparna S Nair @Sergio Valderrama @Stanislav Ladyzhenskiy @Mika @Muhammad Naufil @Ebinbin Ajagun @Sushil Ghimire  @cibaca @Juan Carlos Kuri Pinto @Shivam Raisharma@Ivy  @Frida @Sankalp Dayal @Eileen @Akshay Rajmohan @Aditya kumar @Stark @Ashish Shrivastava @Rishi S Rao @ayivima @Mariia Denysenko and all other awesome people in slack community
-![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/ssc1.PNG)
-![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/ssc2.PNG)
-![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/ssc3.JPG)
-![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/ssc4.PNG)
-![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/ssc5.PNG)
-![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/ssc6.PNG)
-![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/ssc7.PNG)
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/ssc1.png)
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/ssc2.png)
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/ssc3.jpg)
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/ssc4.png)
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/ssc5.png)
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/ssc6.png)
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/ssc7.png)
