@@ -488,3 +488,27 @@ Shrivastava
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/ssc5.png)
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/ssc6.png)
 ![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/ssc7.png)
+
+-------------
+### Day 54: August 21, 2019, Wednesday
+1. Continuing with Lesson 1- of ud810 Intro to Computer vision course
+2. Done Federated Learning with Raspberry pi's adding one more worker (3 workers) and using Kali linux OS instead of Raspbian OS
+3. I would like to encourage @Mengyu Di @Megh Shukla @Megha @megha bagri @Meghana B @Megha Priyadarshini @Manan Kshatriya @Adriano Manfrè @Manideep @Manar Omar @Manar Shawkey @manas @Manaswini Condoor @Mandar Deshpande @Mandeep Singh @Mani Sai Prasad @Manideep to join this #60daysofudacity  challenge and to complete this course successfully
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/3wrkk.png)
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/3wrker.png)
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/3workers.png)
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/IMG_20190816_044613.jpg)
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/IMG_20190819_005423.jpg)
+![alt text]( https://github.com/SayedMaheen/60DaysOfUdacity/blob/master/images_notes/IMG_20190821_122203.jpg)
+
+-------------
+### Day 55: August 22, 2019, Thursday
+1. Completed Lesson 1 of udacity intro to computer vision course
+2. I would like to encourage @Cesar Peña @Peagol  @Peerarust Siriamphan(Gno) @João Pedro Sobrinho @Elvio Pedroso Martinelli  @pswaldia @Oscar Castillo @Oscar Flores @Osvaldo Marte @Peagol @Waseem Mohd @Wasupon Tangsakul @Alpha Nganga @Thu Nguyen @Thi Nguyen @Phong Nguyen @Minh Nguyen @Hoa Nguyen @Duc Nguyen @Alpha Nganga @Ioana @Ionesio Junior to join this #60daysofudacity  channel and to complete this course successfully 
+
+-------------
+### Day 56: August 23, 2019, Friday
+1. Continuing with Lesson 2 of udacity Intro to computer vision course
+2. Trying to implement federated learning in Android app
+3. Trying to implement Computer Vision using Raspberry pi and Raspberry camera
+4. I would like to encourage @Vrajesh Sharma @Pragya Chaube @prachi chachondhia @Pradnya @pradel @Prabhanshu @Muskan Rai @Gaurav Rai @CodeTronaut @Conrad Tan @Cora Silberschneider @Manoel Cortes Mendez @Savan Visalpara @Suraj Kumar Vishwakarma @vinamra.bathwal @Vinay Mishra @Vinod Kumar @Vinod J @Vinil Vasani @Vinicius Ferreira @Vinicius Barros to join this  challenge and to complete this course successfully
