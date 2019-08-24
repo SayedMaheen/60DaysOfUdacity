@@ -512,3 +512,13 @@ Shrivastava
 2. Trying to implement federated learning in Android app
 3. Trying to implement Computer Vision using Raspberry pi and Raspberry camera
 4. I would like to encourage @Vrajesh Sharma @Pragya Chaube @prachi chachondhia @Pradnya @pradel @Prabhanshu @Muskan Rai @Gaurav Rai @CodeTronaut @Conrad Tan @Cora Silberschneider @Manoel Cortes Mendez @Savan Visalpara @Suraj Kumar Vishwakarma @vinamra.bathwal @Vinay Mishra @Vinod Kumar @Vinod J @Vinil Vasani @Vinicius Ferreira @Vinicius Barros to join this  challenge and to complete this course successfully
+
+-------------
+### Day 57: August 24, 2019, Saturday
+1. Read the blog: https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b
+2. Participated in #sg_pytorch_begin: challenge task 30
+3. Watched video: https://www.youtube.com/watch?v=ZJixNvx9BAc
+4. Watched video: https://www.youtube.com/watch?v=GN3oGCZcUi4
+5. Tried some examples from: https://github.com/dsgiitr/d2l-pytorch
+6. Working on the idea to implement federated learning in an android app, trying to do it in  a raspberry pi. If it fails i will try to implement it on VirtualBox or directly from smartphone. Installed Android OS in Raspberry pi using Emteria OS
+7. I would like to encourage @João Machado de Freitas @Nic Dinkins @Smiral @Roman Smirnov @Sabitri @sidhrth @Chanchal V @Adrian Ciubotaru @Bambang Harianto Sianturi @Bishoy Maher @Bambang Harianto Sianturi @Shubham Badgujar @Sai Kumar Basaveswara @Bambang Harianto Sianturi @Akash Basudevan @Syed Bilal Hussain @Syed Hamza Ali @Syed Rafi Naqvi @syed junaid ahmed @Syed Hasan Adil @Mohamed Sayed @Franrey Anthony Saycon @Franrey Anthony Saycon  to join this channel and to complete this course successfully
