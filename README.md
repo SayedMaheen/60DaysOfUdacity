@@ -522,3 +522,14 @@ Shrivastava
 5. Tried some examples from: https://github.com/dsgiitr/d2l-pytorch
 6. Working on the idea to implement federated learning in an android app, trying to do it in  a raspberry pi. If it fails i will try to implement it on VirtualBox or directly from smartphone. Installed Android OS in Raspberry pi using Emteria OS
 7. I would like to encourage @João Machado de Freitas @Nic Dinkins @Smiral @Roman Smirnov @Sabitri @sidhrth @Chanchal V @Adrian Ciubotaru @Bambang Harianto Sianturi @Bishoy Maher @Bambang Harianto Sianturi @Shubham Badgujar @Sai Kumar Basaveswara @Bambang Harianto Sianturi @Akash Basudevan @Syed Bilal Hussain @Syed Hamza Ali @Syed Rafi Naqvi @syed junaid ahmed @Syed Hasan Adil @Mohamed Sayed @Franrey Anthony Saycon @Franrey Anthony Saycon  to join this channel and to complete this course successfully
+
+-------------
+### Skip Day: August 25, 2019, Sunday
+
+-------------
+### Day 58: August 26, 2019, Monday
+1. Watched https://www.youtube.com/watch?v=-vHQub0NXI4
+2. Completed upto 4th lesson of ud187 Tensorflow Course and continuing with 5th and 6th lessons
+3. Tried some examples in OpenCV
+4. Read this blog https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
+5.  I would like to encourage @Prudhvi Reddy @bbr3046 @Kenneth Calvo @Samyuktha Prabhu @Sayan Ghosh @sayali @Iqra Muhammad @Muhammad Luqman @Muhammad Moaz @Muhammad Azhar Munir @Muhammad Ali @muhammadbahroz @Muhammad Akmal @Muhammad Abrar @Mudit @Mudassir Khan @Nikita Sah @Arpit Sah @Varsha Prabhu @Shiva Vashishtha @Kirils @Chris Vasquez @advitiya vashist @Abdias Magdiel Muñoz Vasquez @Rasheeq Ishmam @Citra Sagala to join this channel and to complete this course
