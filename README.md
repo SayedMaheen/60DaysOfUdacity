@@ -533,3 +533,10 @@ Shrivastava
 3. Tried some examples in OpenCV
 4. Read this blog https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
 5.  I would like to encourage @Prudhvi Reddy @bbr3046 @Kenneth Calvo @Samyuktha Prabhu @Sayan Ghosh @sayali @Iqra Muhammad @Muhammad Luqman @Muhammad Moaz @Muhammad Azhar Munir @Muhammad Ali @muhammadbahroz @Muhammad Akmal @Muhammad Abrar @Mudit @Mudassir Khan @Nikita Sah @Arpit Sah @Varsha Prabhu @Shiva Vashishtha @Kirils @Chris Vasquez @advitiya vashist @Abdias Magdiel Muñoz Vasquez @Rasheeq Ishmam @Citra Sagala to join this channel and to complete this course
+
+-------------
+### Day 59: August 27, 2019, Tuesday
+1. Read the article https://towardsdatascience.com/understanding-your-convolution-network-with-visualizations-a4883441533b
+2. Completed Tensorflow course ud187
+3. Continuing with android project 
+4. I would like to encourage @Srichakradhar Reddy @Sri_hari @Srihari Humbarwadi @Srishti Gupta @Srishti @Srinjoy Ganguly @Srijan Gupta @Srijan Jain @Srikanth Narahari @Sree Vemuri @ppsreejith @Ali Akbar @Vamshi Krishna Prime @Chandler Prince @Shivangini Priya @Prince Barpaga @Prince_Gumede @Sudeep Purwar @Suchinthaka Prabhashwara @Pornchanit Supvilai @Supriyo @Shubham Subhankar Sharma @Gayatri  Thakur @Subham Divakar @Subhrajyoti Dasgupta @Subrahmanyam Boyapati @Ana Rute Mendes @Mike Ajala @Mikael Carpenter @Alvaro Ruben Hurtado Maldonado @Malav @Malavika.V @vincent @Vignesh C to join this course and to learn the concepts of deep learning
